@@ -1,2 +1,12 @@
 # I build cool things and enjoy programming
-![жэкусэкс-убивать](https://user-images.githubusercontent.com/99398403/230755139-c3b2e770-cd05-49f5-95c0-3538e1b45977.gif)
+![1487800814_tumblr_o16pjkDzuq1qzwjn7o3_540](https://github.com/Angus-Moore-Dev/Angus-Moore-Dev/assets/99398403/e42bb0c3-6f30-46a3-b188-5a94cf45eec4)
+
+## Current Roles
+- Director @ Jensen Labs
+- Co-Founder @ complai
+- Founder @ Stasia
+
+## Former Roles
+- Senior Software Engineer @ Cox Automotive Australia (Jun 2023 - Oct 2023)
+- CTO / Co-Founder @ Pagoda Technologies (Jan 2021 - May 2022)
+- Developer @ Angela Women's Safety (Jun 2020 - Oct 2020)
