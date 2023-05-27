@@ -7,6 +7,6 @@
 - Founder @ [Stasia](https://www.stasia.one)
 
 ## Former Roles
-- Senior Software Engineer @ Cox Automotive Australia (Jun 2023 - Oct 2023)
+- Senior Software Engineer @ Cox Automotive Australia (Jun 2022 - Oct 2022)
 - CTO / Co-Founder @ Pagoda Technologies (Jan 2021 - May 2022)
 - Developer @ Angela Women's Safety (Jun 2020 - Oct 2020)
