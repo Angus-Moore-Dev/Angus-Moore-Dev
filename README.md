@@ -3,7 +3,7 @@
 
 ## Current Roles
 - Director & Lead Software Engineer @ [Jensen Labs](https://www.jensenlabs.dev)
-- Co-Founder @ complai
+- Co-Founder @ [complai](https://www.complai.com.au)
 - Founder @ [Stasia](https://www.stasia.one)
 
 ## Former Roles
