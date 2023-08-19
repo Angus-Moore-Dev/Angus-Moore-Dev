@@ -5,6 +5,7 @@
 - Director & Lead Software Engineer @ [Jensen Labs](https://www.jensenlabs.dev)
 - Co-Founder @ [complai](https://www.complai.com.au)
 - Founder @ [Stasia](https://www.stasia.one)
+- Creator of [Supacord](https://www.supacord.com)
 
 ## Former Roles
 - Senior Software Engineer @ Cox Automotive Australia (Jun 2022 - Oct 2022)
