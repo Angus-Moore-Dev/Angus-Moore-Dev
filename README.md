@@ -1,4 +1,3 @@
-# I build cool things and enjoy programming
 <img src='https://github.com/Angus-Moore-Dev/Angus-Moore-Dev/assets/99398403/e42bb0c3-6f30-46a3-b188-5a94cf45eec4' width='1500'>
 
 ## Current Roles
