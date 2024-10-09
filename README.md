@@ -3,6 +3,7 @@
 ## Current Roles
 - Co-Founder @ [complai](https://www.complai.com.au)
 - Director & Lead Software Engineer @ [Jensen Labs](https://www.jensenlabs.dev)
+- Founder @ [Supacord](https://www.supacord.com)
 
 ## Former Roles
 - Senior Software Engineer @ Cox Automotive Australia (Jun 2022 - Oct 2022)
@@ -10,4 +11,4 @@
 - Developer @ Angela Women's Safety (Jun 2020 - Oct 2020)
 
 
-You can find my blog at [Gehenna](https://www.gehenna.dev/) if you want to read my personal opinions/updates about things.
+You can find my blog at [Gehenna](https://www.gehenna.app/) if you want to read my personal opinions/updates about things.
