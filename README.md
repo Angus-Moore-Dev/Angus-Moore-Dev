@@ -2,7 +2,7 @@
 
 ## Current Roles
 - Director & Lead Software Engineer @ [Jensen Labs](https://www.jensenlabs.dev) (since April 2022)
-- Founder @ [Supacord](https://www.supacord.com) (since October 2024)
+- Co-Founder @ [NOTEX](https://www.getnotex.com) (since August 2024)
 
 ## Former Roles
 - Co-Founder @ [complai](https://www.complai.com.au) (May 2023 - Feb 2024)
